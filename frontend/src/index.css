@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.job {
+    display: grid;
+    grid-template-rows: auto;
+    overflow: hidden;
+    align-items: center;
+}
+
+/* .table {
+    display: grid;
+    grid-template-columns: 120px 120px 120px 120px;
+    align-items: center;
+    width: 100%;
+} */
